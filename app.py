@@ -75,8 +75,8 @@ if "messages" not in st.session_state:
 #if topic := topic:
 prompt = "Act as a Topical Mind Map Generator. Your Topic is "+topic+". Please consider all relevant nouns/predicates related to the topic, such as specific products or \
 categories, as well as any specific purposes, qualities, or features that are relevant. Ensure that at least 100 nouns/predicates related to the topic are provided. \
-You will then generate a topical map with each category and its corresponding subtopics based on the provided nouns. Present this map in tabular format. To represent the \
-mind map in a tabular format, structure the table to reflect the hierarchy of the mind map, starting from the central concept down to primary, secondary, and tertiary \
+You will then generate a topical map with each category and its corresponding subtopics based on the provided nouns. Present this map in table format. To represent the \
+mind map in a table format, structure the table to reflect the hierarchy of the mind map, starting from the central concept down to primary, secondary, and tertiary \
 branches where applicable. Each level of the hierarchy will be represented in the table, showing the progression from general categories to more specific subtopics.\
 Beneath the topical map you will create a table of nouns and semantially related keywords related to the topic."
     
