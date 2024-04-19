@@ -57,7 +57,7 @@ st.markdown(
 
 with st.expander("How it works"):
     st.write("Struggling with a blank page when it comes to brainstorming ideas around a topic? Use our tool to spark your \
-             creativity and generate a comprehensive mind map bursting with relevant ideas.Enter your top level subject to \
+             creativity and generate a comprehensive mind map bursting with relevant ideas. Enter your top level subject to \
              reveal a hierarchical mind map of topics and semantically related sub-topics. You will also receive a vast network \
              of related nouns and predicates to give further context to your writing.")
 
