@@ -40,8 +40,6 @@ st.markdown('<div style="text-align: center; font-size:22px;">Uncover all aspect
 
 # Spacers for layout purposes
 st.write("#")
-# st.header("PersonaPlotter by The SEO Works")
-# st.markdown("***PersonaPlotter reveals audience personas with targeted keywords and their most pressing questions.***")
 
 st.markdown(
         """
