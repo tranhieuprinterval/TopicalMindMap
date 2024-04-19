@@ -36,7 +36,7 @@ with col3:
 
 
 st.markdown('<div style="text-align: center; font-size:36px;"><strong>Topical Mind Map Generator by The SEO Works<strong></div>', unsafe_allow_html=True)
-st.markdown('<div style="text-align: center; font-size:22px;"></div>', unsafe_allow_html=True)
+st.markdown('<div style="text-align: center; font-size:22px;">Uncover all aspects of your chosen topic with a structured mind map</div>', unsafe_allow_html=True)
 
 # Spacers for layout purposes
 st.write("#")
@@ -56,7 +56,10 @@ st.markdown(
 
 
 with st.expander("How it works"):
-    st.write("Introducing The SEO Works Topical Mind Map Generator. Add your topic and click go!")
+    st.write("Struggling with a blank page when it comes to brainstorming ideas around a topic? Use our tool to spark your \
+             creativity and generate a comprehensive mind map bursting with relevant ideas.Enter your top level subject to \
+             reveal a hierarchical mind map of topics and semantically related sub-topics. You will also receive a vast network \
+             of related nouns and predicates to give further context to your writing.")
 
 
 topic = st.text_input("Enter your topic", placeholder="Add your topic")
